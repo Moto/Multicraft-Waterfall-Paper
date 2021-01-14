@@ -1,4 +1,4 @@
-# DiamondDogs-Multicraft-Config
+# Multicraft-Waterfall-Paper
 Multicraft Panel JAR Config Files for Diamond Dogs Network
 
 Config Files used to add Waterfall and PaperMC to the Multicraft Panel

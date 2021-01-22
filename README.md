@@ -14,12 +14,12 @@ I do not guarantee they are perfect but they work. If you find anything that
 should be changed to improve them just do a pull request I will be happy to
 accept changes that improve them.
 
-#####WaterFall
+######WaterFall
 https://papermc.io/downloads#Waterfall
 
-#####PaperMC
+######PaperMC
 https://papermc.io/downloads#Paper-1.16
 
 
-#####Diamond Dogs Network
+######Diamond Dogs Network
 https://diamonddog.org

@@ -20,6 +20,9 @@ https://papermc.io/downloads#Waterfall
 #### PaperMC
 https://papermc.io/downloads#Paper-1.16
 
+#### PaperMC GITHUB
+https://github.com/PaperMC
 
-##### Diamond Dogs Network
+
+#### Diamond Dogs Network
 https://diamonddog.org
